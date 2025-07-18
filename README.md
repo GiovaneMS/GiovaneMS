@@ -79,12 +79,3 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
   <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor"/>
 </p>
-
----
-
-### 📊 Linguagens Mais Usadas
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaneMS&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
-  </a>
-</div>
