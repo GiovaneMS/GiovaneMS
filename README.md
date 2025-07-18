@@ -29,52 +29,56 @@
 
 ---
 
-### 🎓 Certificações e Estudos
-<p align="center">Minha coleção de conhecimentos adquiridos em plataformas como Alura e Udemy.</p>
+### 💻 Tecnologias e Ferramentas
+<p align="center">Uma seleção das tecnologias com as quais tenho trabalhado e estudado.</p>
 
-<details>
-  <summary><strong>🚀 Backend Development (C# & .NET)</strong></summary>
-  <br>
-  <ul>
-    <li><b>[Cursando] .NET MAUI - Crie Apps para Android, iOS, Mac e Windows</b><br><small><i>Tecnologias: .NET MAUI</i></small></li>
-    <li><b>APIs Rest com Asp.NET Core (Partes 1, 2 e 3)</b><br><small><i>Tecnologias: C#, ASP.NET, API Rest</i></small></li>
-    <li><b>Entity Framework Core (Partes 1 e 2)</b><br><small><i>Tecnologias: Entity Framework</i></small></li>
-    <li><b>Testes em .NET (Testando software e integrando com banco)</b><br><small><i>Tecnologias: Testes .NET</i></small></li>
-    <li><b>C# Reflection (Partes 1 e 2)</b><br><small><i>Tecnologias: C#</i></small></li>
-    <li><b>Windows Forms com C#</b><br><small><i>Tecnologias: Windows Forms</i></small></li>
-  </ul>
-</details>
+**Linguagens de Programação:**
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
 
-<details>
-  <summary><strong>☕ Backend Development (Java & Node.js)</strong></summary>
-  <br>
-  <ul>
-    <li><b>Certificação Java SE 7 Programmer I</b><br><small><i>Tecnologias: Java</i></small></li>
-    <li><b>[Cursando] Curso Web Moderno com JavaScript + Projetos</b><br><small><i>Tecnologias: Node.js, MySQL, MongoDB</i></small></li>
-  </ul>
-</details>
+**Desenvolvimento Frontend:**
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
+  <img src="https://img.shields.io/badge/Ajax-0078D7?style=for-the-badge" alt="Ajax"/>
+</p>
 
-<details>
-  <summary><strong>🎨 Frontend Development & Design</strong></summary>
-  <br>
-  <ul>
-    <li><b>[Cursando] Curso Web Moderno com JavaScript + Projetos</b><br><small><i>Tecnologias: JavaScript, React, Vue.js, HTML, CSS, Bootstrap, jQuery</i></small></li>
-    <li><b>[Cursando] Criação de Site Profissional com Elementor e Wordpress</b><br><small><i>Tecnologias: Wordpress, Elementor</i></small></li>
-    <li><b>[Cursando] Figma Design de interfaces do zero ao profissional</b><br><small><i>Tecnologias: Figma</i></small></li>
-    <li><b>Acessibilidade web parte 1: tornando seu front-end inclusivo</b><br><small><i>Tecnologias: Acessibilidade Web</i></small></li>
-  </ul>
-</details>
+**Desenvolvimento Backend:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/asp.net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET"/>
+  <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET MAUI"/>
+  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework"/>
+  <img src="https://img.shields.io/badge/API%20REST-purple?style=for-the-badge" alt="API Rest"/>
+</p>
 
-<details>
-  <summary><strong>🔧 Ferramentas e Fundamentos</strong></summary>
-  <br>
-  <ul>
-    <li><b>Git e Github: estratégias de ramificação, Conflitos e Pull Requests</b><br><small><i>Tecnologias: Git, GitHub</i></small></li>
-    <li><b>Selenium WebDriver e C#</b><br><small><i>Tecnologias: Selenium</i></small></li>
-    <li><b>SEO: otimização de sites</b><br><small><i>Tecnologias: SEO</i></small></li>
-    <li><b>HTTP: Entendendo a web por baixo dos panos</b><br><small><i>Tecnologias: HTTP</i></small></li>
-  </ul>
-</details>
+**Bancos de Dados:**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
+**Ferramentas, Design e Testes:**
+<p align="left">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/Testes%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Testes .NET"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor"/>
+</p>
 
 ---
 
