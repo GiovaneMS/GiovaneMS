@@ -1,6 +1,9 @@
 <div align="center">
   <h1>Olá, eu sou o Giovane! 👋</h1>
   <p>Bem-vindo ao meu cantinho no GitHub, onde transformo café em código.</p>
+  <a href="https://www.giotech.solutions" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-www.giotech.solutions-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Meu Site/Portfólio"/>
+  </a>
 </div>
 
 <div align="center">
@@ -33,12 +36,12 @@
   <summary><strong>🚀 Backend Development (C# & .NET)</strong></summary>
   <br>
   <ul>
-    <li><b>[Cursando] .NET MAUI - Crie Apps para Android, iOS, Mac e Windows</b> <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET MAUI"/></li>
-    <li><b>APIs Rest com Asp.NET Core (Partes 1, 2 e 3)</b> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/> <img src="https://img.shields.io/badge/asp.net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET"/> <img src="https://img.shields.io/badge/API%20REST-orange?style=for-the-badge" alt="API Rest"/></li>
-    <li><b>Entity Framework Core (Partes 1 e 2)</b> <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework"/></li>
-    <li><b>Testes em .NET (Testando software e integrando com banco)</b> <img src="https://img.shields.io/badge/Testes%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Testes .NET"/></li>
-    <li><b>C# Reflection (Partes 1 e 2)</b> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/></li>
-    <li><b>Windows Forms com C#</b> <img src="https://img.shields.io/badge/Windows%20Forms-512BD4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Forms"/></li>
+    <li><b>[Cursando] .NET MAUI - Crie Apps para Android, iOS, Mac e Windows</b><br><small><i>Tecnologias: .NET MAUI</i></small></li>
+    <li><b>APIs Rest com Asp.NET Core (Partes 1, 2 e 3)</b><br><small><i>Tecnologias: C#, ASP.NET, API Rest</i></small></li>
+    <li><b>Entity Framework Core (Partes 1 e 2)</b><br><small><i>Tecnologias: Entity Framework</i></small></li>
+    <li><b>Testes em .NET (Testando software e integrando com banco)</b><br><small><i>Tecnologias: Testes .NET</i></small></li>
+    <li><b>C# Reflection (Partes 1 e 2)</b><br><small><i>Tecnologias: C#</i></small></li>
+    <li><b>Windows Forms com C#</b><br><small><i>Tecnologias: Windows Forms</i></small></li>
   </ul>
 </details>
 
@@ -46,8 +49,8 @@
   <summary><strong>☕ Backend Development (Java & Node.js)</strong></summary>
   <br>
   <ul>
-    <li><b>Certificação Java SE 7 Programmer I</b> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></li>
-    <li><b>[Cursando] Curso Web Moderno com JavaScript + Projetos</b> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></li>
+    <li><b>Certificação Java SE 7 Programmer I</b><br><small><i>Tecnologias: Java</i></small></li>
+    <li><b>[Cursando] Curso Web Moderno com JavaScript + Projetos</b><br><small><i>Tecnologias: Node.js, MySQL, MongoDB</i></small></li>
   </ul>
 </details>
 
@@ -55,10 +58,10 @@
   <summary><strong>🎨 Frontend Development & Design</strong></summary>
   <br>
   <ul>
-    <li><b>[Cursando] Curso Web Moderno com JavaScript + Projetos</b> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/></li>
-    <li><b>[Cursando] Criação de Site Profissional com Elementor e Wordpress</b> <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/> <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor"/></li>
-    <li><b>[Cursando] Figma Design de interfaces do zero ao profissional</b> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></li>
-    <li><b>Acessibilidade web parte 1: tornando seu front-end inclusivo</b> <img src="https://img.shields.io/badge/Acessibilidade-005b9c?style=for-the-badge" alt="Acessibilidade"/></li>
+    <li><b>[Cursando] Curso Web Moderno com JavaScript + Projetos</b><br><small><i>Tecnologias: JavaScript, React, Vue.js, HTML, CSS, Bootstrap, jQuery</i></small></li>
+    <li><b>[Cursando] Criação de Site Profissional com Elementor e Wordpress</b><br><small><i>Tecnologias: Wordpress, Elementor</i></small></li>
+    <li><b>[Cursando] Figma Design de interfaces do zero ao profissional</b><br><small><i>Tecnologias: Figma</i></small></li>
+    <li><b>Acessibilidade web parte 1: tornando seu front-end inclusivo</b><br><small><i>Tecnologias: Acessibilidade Web</i></small></li>
   </ul>
 </details>
 
@@ -66,30 +69,18 @@
   <summary><strong>🔧 Ferramentas e Fundamentos</strong></summary>
   <br>
   <ul>
-    <li><b>Git e Github: estratégias de ramificação, Conflitos e Pull Requests</b> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></li>
-    <li><b>Selenium WebDriver e C#</b> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/></li>
-    <li><b>SEO: otimização de sites</b> <img src="https://img.shields.io/badge/SEO-212121?style=for-the-badge" alt="SEO"/></li>
-    <li><b>HTTP: Entendendo a web por baixo dos panos</b> <img src="https://img.shields.io/badge/HTTP-005b9c?style=for-the-badge" alt="HTTP"/></li>
+    <li><b>Git e Github: estratégias de ramificação, Conflitos e Pull Requests</b><br><small><i>Tecnologias: Git, GitHub</i></small></li>
+    <li><b>Selenium WebDriver e C#</b><br><small><i>Tecnologias: Selenium</i></small></li>
+    <li><b>SEO: otimização de sites</b><br><small><i>Tecnologias: SEO</i></small></li>
+    <li><b>HTTP: Entendendo a web por baixo dos panos</b><br><small><i>Tecnologias: HTTP</i></small></li>
   </ul>
 </details>
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 📊 Linguagens Mais Usadas
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 src="https://github-readme-stats.vercel.app/api?username=GiovaneMS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaneMS&layout=compact&langs_count=6&theme=dracula&hide_border=true" />
+    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaneMS&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
   </a>
 </div>
-
----
-
-### 📫 Entre em Contato
-<p align="center">
-  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://linkedin.com/in/SEU-USUARIO-DO-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/GiovaneMS"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
