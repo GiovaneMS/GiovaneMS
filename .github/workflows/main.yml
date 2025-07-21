@@ -3,7 +3,6 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Executa a cada 6 horas
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
@@ -17,18 +16,23 @@ jobs:
 
       - name: Generate Snake Animation
         uses: Platane/snk@v3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add dist
-          git commit -m "Generate snake animation"
-          git push
+          # Verifica se há mudanças antes de fazer o commit para evitar erros
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: update snake animation"
+            git push
+          else
+            echo "No changes to commit."
+          fi
