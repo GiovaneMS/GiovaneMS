@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Olá, eu sou o Giovane! 👋</h1>
   <p>Bem-vindo ao meu cantinho no GitHub, onde transformo café em código.</p>
-  <a href="https://www.giotech.solutions" target="_blank">
+  <a href="https://www.giotechdev.com.br" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-www.giotech.solutions-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Meu Site/Portfólio"/>
   </a>
 </div>
